@@ -1,2 +1,0 @@
-This is my test to see if I can successfully commit code into github.
-I will be building a simple FizzBuzz solution and adding it as my first project or however this works.
