@@ -1,3 +1,8 @@
+//Jacob Battenfield
+//Find me on LinkedIn :)
+//1-31-2024
+//www.linkedin.com/in/jacob-jbatt
+
 package Variables;
 
 class Main {
