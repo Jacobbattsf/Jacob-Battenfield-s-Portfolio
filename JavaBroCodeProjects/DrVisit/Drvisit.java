@@ -2,6 +2,7 @@
 //Find me on LinkedIn :)
 //2-1-2024
 //www.linkedin.com/in/jacob-jbatt
+
 package DrVisit;
 //A hospital needs a program to report pain levels, this system will tell the nurses what to do when a patient is in a certain amount of pain!
 import java.util.Scanner;
