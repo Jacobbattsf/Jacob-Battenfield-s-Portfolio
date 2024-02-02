@@ -2,7 +2,7 @@
 //Find me on LinkedIn :)
 //2-1-2024
 //www.linkedin.com/in/jacob-jbatt
-
+//this is my comment
 package EightSwitch;
 import java.util.*;
 public class EightSwitch {
